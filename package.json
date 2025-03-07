@@ -1,0 +1,23 @@
+{
+    "name": "@lonewolfyx/tsconfig",
+    "version": "1.0.0",
+    "description": "lonewolfyx's ts config preset",
+    "main": "tsconfig.json",
+    "keywords": [
+        "typescript",
+        "tsconfig"
+    ],
+    "author": "lonewolfyx",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lonewolfyx/tsconfig.git"
+    },
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org",
+        "access": "public"
+    },
+    "license": "MIT",
+    "peerDependencies": {
+        "typescript": "^5.8.2"
+    }
+}
