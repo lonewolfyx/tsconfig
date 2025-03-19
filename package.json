@@ -1,6 +1,6 @@
 {
     "name": "@lonewolfyx/tsconfig",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "lonewolfyx's ts config preset",
     "main": "tsconfig.json",
     "keywords": [
