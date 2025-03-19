@@ -5,5 +5,7 @@
 
 ## Existing Tsconfig
 
+* Base tsconfig - `tsconfig.json`
 * Base ts application tsconfig - `tsconfig.lib.json`
 * Nestjs base tsconfig - `tsconfig.nest.json`
+* Monorepo tsconfig - `tsconfig.monorepo.json`
